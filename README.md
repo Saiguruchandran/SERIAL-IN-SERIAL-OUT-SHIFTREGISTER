@@ -61,7 +61,10 @@ endmodule
 */
 ```
 **RTL LOGIC FOR SISO Shift Register**
+![WhatsApp Image 2024-11-11 at 16 26 33_b0019f31](https://github.com/user-attachments/assets/db5519a9-de93-498f-8ebf-722b2ad5c4c2)
 
 **TIMING DIGRAMS FOR SISO Shift Register**
+![WhatsApp Image 2024-11-11 at 16 26 19_1f8b0036](https://github.com/user-attachments/assets/d4d4a0da-1ca2-44cd-b59f-df8f286c68a8)
 
 **RESULTS**
+the implementation of serial in serial out shift register using quartus || and verilog was executed succesfully.
