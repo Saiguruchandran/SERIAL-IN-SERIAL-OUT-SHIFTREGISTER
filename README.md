@@ -67,4 +67,6 @@ endmodule
 ![WhatsApp Image 2024-11-11 at 16 26 19_1f8b0036](https://github.com/user-attachments/assets/d4d4a0da-1ca2-44cd-b59f-df8f286c68a8)
 
 **RESULTS**
+
+
 the implementation of serial in serial out shift register using quartus || and verilog was executed succesfully.
